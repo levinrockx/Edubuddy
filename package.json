@@ -27,6 +27,7 @@
     "@nx/eslint": "20.6.4",
     "@nx/eslint-plugin": "20.6.4",
     "@nx/js": "20.6.4",
+    "@nx/nest": "^20.6.4",
     "@nx/web": "20.6.4",
     "@nx/workspace": "20.6.4",
     "@schematics/angular": "~19.2.0",
