@@ -10,4 +10,5 @@ import { CommonModule } from '@angular/common';
 export class InputComponent {
   @Input() label: string | null = null;
   @Input() type = 'text';
+  @Input() id: string | null = null;
 }
